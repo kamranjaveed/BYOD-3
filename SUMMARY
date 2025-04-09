@@ -1,0 +1,9 @@
+Account A: Main owner and creator of the repository.
+Account B: Used for forking and collaboration.
+
+Summary of Tasks:
+1. Created public repo with README (Account A).
+2. Initialized local repo, committed a file, and pushed to GitHub.
+3. Cloned repo, made changes, and pushed updates.
+4. Forked from Account B, made a contribution in a new branch, and submitted a pull request.
+5. Reviewed and merged the PR from Account A.
